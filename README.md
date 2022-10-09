@@ -1,4 +1,5 @@
 # Пробное задание
+Статус проверок:<img src="https://github.com/abdurahim-dag/middle_python_intro/workflows/Проверка/badge.svg?branch-master">
 
 Завершите разработку: дополните метод greetings в app/main.py
 
@@ -13,7 +14,7 @@
 
 Используется `wemake-python-styleguide`.
 
-Для тестов отключена проверка наличия документации модуля и описания аргументов в Docstring. 
+Для тестов отключена проверка наличия документации модуля и описания аргументов в Docstring.
 
 Конфигурация находится в `setup.cfg`
 
@@ -26,4 +27,3 @@
 ## CI-CD
 
 В GitHub actions настроен запуск линтера и тестов при событии push.
-
